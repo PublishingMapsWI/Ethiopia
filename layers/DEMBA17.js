@@ -1,0 +1,1 @@
+var json_DEMBA17 = {"type":"FeatureCollection","name":"DEMBA17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Woreda":"Jimma (town)","Title":"Development of an Executive MBA Strengthening Agribusiness in Ethiopia, Jimma University (DEMBA)"},"geometry":{"type":"Point","coordinates":[36.83,7.674]}}]}

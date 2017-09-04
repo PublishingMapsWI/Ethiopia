@@ -1,0 +1,1 @@
+var json_SHL2 = {"type":"FeatureCollection","name":"SHL2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Woreda":"WEREDA 01","Title":"Support to Horticultural Livelihoods, Innovations and Food Safety in Ethiopia (SHL)"},"geometry":{"type":"Point","coordinates":[38.748,9.038]}}]}

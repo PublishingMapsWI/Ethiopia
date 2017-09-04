@@ -1,0 +1,1 @@
+var json_BM21 = {"type":"FeatureCollection","name":"BM21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Woreda":"Arsi Negele","Title":"Barley Monitor: Satellite Information for Better Credit Access (BM)"},"geometry":{"type":"Point","coordinates":[38.609,7.47]}}]}

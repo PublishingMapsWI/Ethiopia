@@ -1,0 +1,1 @@
+var json_FP13 = {"type":"FeatureCollection","name":"FP13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Woreda":"Dire Dawa","Title":"Fair Planet (FP)"},"geometry":{"type":"Point","coordinates":[42.231,9.609]}}]}

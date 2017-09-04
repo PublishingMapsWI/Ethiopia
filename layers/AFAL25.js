@@ -1,0 +1,1 @@
+var json_AFAL25 = {"type":"FeatureCollection","name":"AFAL25","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Woreda":"Mekele","Title":"AfriAlliance (AFAL)"},"geometry":{"type":"Point","coordinates":[39.702,13.503]}}]}
